@@ -9,7 +9,7 @@ EduOrg is a full-stack web application designed to manage educational institutio
 * 👨‍🎓 Student Management
 * 👩‍🏫 Teacher Management
 * 🏫 Class & Course Handling
-* 🔐 Authentication & Authorization (JWT आधारित)
+* 🔐 Authentication & Authorization (JWT)
 * 🔗 API Integrations
 * 📊 Organized Backend Structure
 * 🌐 RESTful APIs
